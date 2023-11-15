@@ -2,6 +2,4 @@ This subject was taught by a project: "Identification and Computer Control of a 
 
 Part1: A  plant model that relates the motor that drives the arm with the angular position of its tip is obtained using System Identification methods and data obtained from experiments performed with the plant.
 
-Part2: A controller is designed using the previously obtained model in order to drive 
-position the tip of the robot joint to a desired angle. The controller is then tested on 
-the actual plant
+Part2: A controller is designed using the previously obtained model in order to drive position the tip of the robot joint to a desired angle. The controller is then tested on the actual plant.
