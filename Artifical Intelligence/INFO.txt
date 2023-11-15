@@ -1,0 +1,7 @@
+This subject was taught by small laboratory problems, each one with its learning target.
+
+LAB1: Regresion
+LAB2: Machine Learning
+LAB3: Neural Network
+LAB5: Support Vector Machines
+LAB6: Generalization
