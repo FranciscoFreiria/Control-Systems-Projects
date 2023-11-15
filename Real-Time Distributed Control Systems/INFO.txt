@@ -1,0 +1,7 @@
+This subject was taught by a project: "Real-Time Cooperative Decentralized Control of 
+Illumination Systems" A couple questions are also indicated to be answered.
+
+Objective:
+
+The objective of this project is to design a real-time control system for a distributed 
+illumination system in a small-scale model of an office space, minimizing the energy consumption and maximize user comfort.
