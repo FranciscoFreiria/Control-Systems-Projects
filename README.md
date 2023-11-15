@@ -5,4 +5,4 @@ Academic projects in subjects related to control systems:
     - Real-Time Distributed Control Systems.
 
 
-Each subject was taught and evaluated differently. Inside the folder for each subject, the teaching method and a short description or objectives of projects is mentioned in a INFO file.
+Each subject was taught and evaluated differently. Inside the subject folder, the teaching method and a short description of projects is presented, in the INFO file.
